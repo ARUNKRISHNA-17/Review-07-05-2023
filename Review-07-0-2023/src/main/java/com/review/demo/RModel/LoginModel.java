@@ -1,10 +1,7 @@
 package com.review.demo.RModel;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
 
-@Entity
-@Table(name="LoginData")
+
 public class LoginModel 
 {
 	private String email;

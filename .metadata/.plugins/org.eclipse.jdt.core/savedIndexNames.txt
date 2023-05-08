@@ -8,10 +8,12 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 197369441.index
 2114673775.index
 4143337927.index
+703495264.index
 2344525470.index
 2376791502.index
 1380410045.index
 2550546537.index
+782566386.index
 3607476704.index
 883359308.index
 2935680482.index
@@ -19,9 +21,11 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 2529766475.index
 896484863.index
 1027031033.index
+2001195782.index
 3617034905.index
 1201521261.index
 1258854958.index
+1061383428.index
 3474097423.index
 3565251430.index
 4179153392.index
@@ -44,6 +48,7 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 1673452972.index
 3250162001.index
 437582569.index
+1550851992.index
 3863285582.index
 642173546.index
 1901478066.index
@@ -57,6 +62,7 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 1424313668.index
 677664856.index
 3161849186.index
+3944999211.index
 2012002011.index
 1504072928.index
 891975329.index
@@ -68,6 +74,7 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 2536657920.index
 2310449697.index
 2394753651.index
+1787279246.index
 4270241124.index
 1307974276.index
 3122195912.index
@@ -117,8 +124,10 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 3926263897.index
 1807547923.index
 2907801010.index
+4095651339.index
 3185610305.index
 866970756.index
+1406748661.index
 2163433047.index
 578570827.index
 3621588454.index

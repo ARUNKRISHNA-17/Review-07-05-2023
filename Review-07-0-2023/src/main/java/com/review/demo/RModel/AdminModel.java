@@ -1,10 +1,5 @@
 package com.review.demo.RModel;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-
-@Entity
-@Table(name="AdminData")
 public class AdminModel 
 {
 	private String email;
