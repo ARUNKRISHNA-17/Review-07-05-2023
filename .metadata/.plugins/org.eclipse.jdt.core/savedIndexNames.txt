@@ -105,6 +105,7 @@ INDEX VERSION 1.132+C:\Users\shant\OneDrive\Desktop\Review 07052023\.metadata\.p
 4892435.index
 1635761304.index
 4033460424.index
+1865797976.index
 3735397867.index
 1874786960.index
 2538127596.index

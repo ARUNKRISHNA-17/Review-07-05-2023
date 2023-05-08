@@ -1,0 +1,23 @@
+package com.review.demo.RModel;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="LoanApplication")
+public class LoanApplicationModel 
+{
+	@Id
+	private int loanid;
+	private String loantype;
+	private String applicantname;
+	private String applicantaddress;
+	private String applicantmobile;
+	private String applicantemail;
+	private String applicantaadhar;
+	private String applicantpan;
+	private String applicantsalary;
+	private String loanamountrequired;
+	private String loanrepaymentmonths;
+}

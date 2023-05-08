@@ -1,0 +1,44 @@
+package com.review.demo.RService;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.review.demo.RModel.AdminModel;
+import com.review.demo.RModel.UserModel;
+import com.review.demo.RRepository.AdminRepository;
+import com.review.demo.RRepository.UserRepository;
+
+@Service
+public class AdminService
+{
+	@Autowired
+	AdminRepository arepo;
+	
+	public UserModel saveData(AdminModel am)
+	{
+		return arepo.save(um);
+	}
+	
+	public List<UserModel> getAllData()
+	{
+		return urepo.findAll();
+	}
+	
+	public Optional<UserModel> getDataById(int id)
+	{
+		return urepo.findById(id);
+	}
+	
+	public UserModel updateData(UserModel um)
+	{
+		return urepo.saveAndFlush(um);
+	}
+	
+	public void deleteData(int id)
+	{
+		urepo.deleteById(id);
+	}
+}
